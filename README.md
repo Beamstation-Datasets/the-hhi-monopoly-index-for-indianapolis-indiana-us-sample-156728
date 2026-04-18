@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Indianapolis, Indiana, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `156728` |
 | Location | Indianapolis |
 | Category | Restaurants |
-| Full dataset size | 102 records |
-| Free sample size | 10 records (9.8%) |
-| Last export | 2026-04-08T00:56:59.703065+00:00 |
+| Full dataset size | 84 records |
+| Free sample size | 8 records (9.52%) |
+| Last export | 2026-04-15T06:37:05.554474+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-indianapolis-indiana-us-sample-156728/releases/download/sample-latest/beamstation_156728_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
