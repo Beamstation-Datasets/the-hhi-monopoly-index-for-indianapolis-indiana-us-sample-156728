@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6de23274-a945-4930-9f54-d03c574743d5",
+  "export_job_id": "87023bc0-c4a5-45a0-aa4f-f0245b8a4145",
   "id_short": 156728,
-  "published_at": "2026-04-10T19:19:34Z",
+  "published_at": "2026-04-18T07:29:20Z",
   "repo_name": "the-hhi-monopoly-index-for-indianapolis-indiana-us-sample-156728",
   "sample_asset_name": "beamstation_156728_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/156728/beamstation_156728_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "39e67d589c34a1cca9abc0d7d538bc9a8de5f88ac573c916426d5d6e29ade15f",
-  "sample_size_bytes": 55287,
-  "total_records": 102
+  "sample_records": 8,
+  "sample_sha256": "741a5ac1fc751273b55b3f8b59a63ac6b7dc6ec3209886e9ce4a075decacb2c5",
+  "sample_size_bytes": 47643,
+  "total_records": 84
 }
